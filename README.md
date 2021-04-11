@@ -1,4 +1,4 @@
-# REST API Node.js PostgreSQL
+# node-postgres-1941
 
 El presente proyecto permite registrar y obtener un usuario.
 
@@ -6,6 +6,7 @@ El presente proyecto permite registrar y obtener un usuario.
 - PostgreSQL
 - Express
 - pg
+- Babel
 
 ## Instalación
 
